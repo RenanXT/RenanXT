@@ -1,16 +1,16 @@
 ## Hi there 👋
+  Sou desenvolvedor web com foco em Back-end, atualmente focado no desenvolvimento de projetos utilizando PHP.
 
-<!--
-**RenanXT/RenanXT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Há cerca de dois anos desenvolvo meus próprios projetos, aplicando boas práticas de otimização, reutilização e organização de código. Trabalhando em UIs organizadas e intuitivas facilitando a experiência do usuário para interação do sistema.
+  Tecnologias e conhecimentos
+PHP
+JavaScript
+HTML5
+CSS3
+MySQL
+Bootstrap
+MVC
+POO (Programação Orientada a Objetos)
+UML e estruturação de sistemas
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Possuo grande interrese e exeperiencia em desenvover soluções web completas e interativas, alem de ter facilidade em aprender e aplicar novas tecnicas e tecnologias.
