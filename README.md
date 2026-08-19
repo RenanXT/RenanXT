@@ -9,7 +9,7 @@ PHP
 
 JavaScript
 
-HTML5
+HTML
 
 CSS3
 
